@@ -5,4 +5,4 @@ Creating multiple v-model bindings on a single component instance. Example: `<Us
   v-model:last-name="last"
 />` 
 
-Learn more about IDE Support for Vue in the [Vue Docs Component v-model Guide](https://vuejs.org/guide/components/v-model.html#multiple-v-model-bindings).
+Learn more about multiple v-model bindings for Vue in the [Vue Docs Component v-model Guide](https://vuejs.org/guide/components/v-model.html#multiple-v-model-bindings).
